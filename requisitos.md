@@ -27,4 +27,4 @@ O código que gera o diagrama está [Aqui!](yuml/monitoria-yuml.md). O detalhame
 ## Lista de Requisitos Não-Funcionais
 RNF001 - Deve ser acessível via navegador | Deve abrir perfeitamento no Firefox e no Chrome. |
 RNF002 - Consultas deve ser eficiente | O sistema deve executar as consultas em milessegundos |
-RNF003 - Log e histórico de acesso e funções | Deve manter um log de todos os acessos e das funções executadas pelo usuário |
+ | Deve manter um log de todos os acessos e das funções executadas pelo usuário |
