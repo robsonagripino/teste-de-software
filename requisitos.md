@@ -11,20 +11,3 @@ RF006 - Configurar tarifa | A tarifa pode ser convecional (tem valor (R$/KWh)) o
 RF007 - Informar consumo de equipamentos (R$) | Para cada equipamento informa: Consumo (KWh/mês), valor (R$/KWh), porcentagem (R$/KWh) de acordo com os valores da tarifa. Além de informar o consumo graficamente | Administrador |    
 RF008 - Informar consumo dos ambientes (R$)  | Mostrar o consumo (KWh/mês), valor (R$/KWh) e porcentagem ) (R$/KWh) de cada ambiente. Exibir também em forma de gráfico | Administrador |
 RF009 - Histórico de consumo | Exibir hitórico de consumo de um cliente em cada mês em KWH ou R$ | Administrador |
-RF010 - 
-
-
-### Modelo Conceitual
-
-Abaixo apresentamos o modelo conceitual usando o **YUML**.
-
- ![Modelo UML](yuml/monitoria-modelo.png)
-
-O código que gera o diagrama está [Aqui!](yuml/monitoria-yuml.md). O detalhamento dos modelos conceitual e de dados do projeto estão no [Documento de Modelos](doc-modelos.md).
-
-#### Descrição das Entidades
-
-## Lista de Requisitos Não-Funcionais
-RNF001 - Deve ser acessível via navegador | Deve abrir perfeitamento no Firefox e no Chrome. |
-RNF002 - Consultas deve ser eficiente | O sistema deve executar as consultas em milessegundos |
-RNF003 - Log e histórico de acesso e funções | Deve manter um log de todos os acessos e das funções executadas pelo usuário |   
