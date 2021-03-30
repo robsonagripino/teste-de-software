@@ -30,7 +30,7 @@ RF010 - Quantidade de clinete | Exibir a quantidade de clientes por mês | Admin
 
 ### Modelo Conceitual
 
-Abaixo apresentamos o modelo conceitual usando o **YUML**.
+Abaixo se encontra o modelo entidade relacionamento do projeto de serviço de assessoria energética.
 
  ![Modelo Entidade Relacionamento](mer.png)
 
