@@ -28,6 +28,12 @@ RF008 - Informar consumo dos ambientes (R$)  | Mostrar o consumo (KWh/mês), val
 RF009 - Histórico de consumo | Exibir hitórico de consumo de um cliente em cada mês em KWH ou R$ | Administrador |
 RF010 - Quantidade de clinete | Exibir a quantidade de clientes por mês | Administrador |
 
+### Modelo Conceitual
+
+Abaixo apresentamos o modelo conceitual usando o **YUML**.
+
+ ![Modelo Entidade Relacionamento](mer.png)
+
 ## Lista de requisitos não-funcionais
 
 Requisito | Descrição |
