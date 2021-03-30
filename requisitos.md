@@ -27,4 +27,12 @@ RF007 - Informar consumo de equipamentos (R$) | Para cada equipamento informa: C
 RF008 - Informar consumo dos ambientes (R$)  | Mostrar o consumo (KWh/mês), valor (R$/KWh) e porcentagem ) (R$/KWh) de cada ambiente. Exibir também em forma de gráfico | Administrador |
 RF009 - Histórico de consumo | Exibir hitórico de consumo de um cliente em cada mês em KWH ou R$ | Administrador |
 RF010 - Quantidade de clinete | Exibir a quantidade de clientes por mês | Administrador |
+
+## Lista de requisitos não-funcionais
+
+Requisito | Descrição |
+--------- | --------- |
+RNF001 - Realizar backup | O sistema deve realizar backup periodicamente. |
+RNF002 - Possuir uma UI intuitiva | A interface do usuário deve ser intuitiva para ter uma maior eficiência. |
+RNF003 - Segurança das informações | Os dados de cada usuário deve permanecer seguros.
   
