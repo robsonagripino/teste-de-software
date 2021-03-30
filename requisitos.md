@@ -17,8 +17,8 @@ Administrador | Esse usuário pode casdastrar clientes e seus respectivos imóve
 
 Requisito                                 | Descrição   | Ator |
 ---------                                 | ----------- | ---------- |
-RF001 - Manter um cadastro de clientes    | Um cliente possuí: código, cpf ou cnpj, email, telefone, data de nascimento, sexo e um endereço| Administrador |
-RF002 - Manter um cadastro de imóveis | Os imóveis são divididos em dois tipo: residencial e empresarial. Ambos possuí: Porte, área, se possui área exeterna e ambientes (comodos), empresas tem o campo de maquinário | Administrador |
+RF001 - Manter um cadastro de clientes    | Um cliente possuí: cpf ou cnpj, email, telefone, data de nascimento, sexo e um endereço| Administrador |
+RF002 - Manter um cadastro de imóveis | Os imóveis são divididos em dois tipo: residencial e empresarial. Ambos possuí: Porte, endereço, área, se possui área externa e ambientes (comodos), empresas tem o campo de maquinário | Administrador |
 RF003 - Manter o cadastro de equipamentos| Um equpamento possuí: um nome, ambiente, quantidade, selo de eficiência, potência, horas de uso por dia, dias utilizados no mês, KWH/mês (calculável) | Administrador |
 RF004 - Informar consumo de equipamentos (KWh/mês) | Para cada equipamento informa: quantidade, consumo (KWh/mês), consumo (porcentagem). Além de informar o consumo graficamente | Administrador |
 RF005 - Informar consumo dos ambientes (KWh/mês)  | Mostrar o consumo em porcentagem e em KWh/mês de cada por cada ambiente. Exibir também em forma de gráfico | Administrador |
