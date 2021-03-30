@@ -28,7 +28,7 @@ RF008 - Informar consumo dos ambientes (R$)  | Mostrar o consumo (KWh/mês), val
 RF009 - Histórico de consumo | Exibir hitórico de consumo de um cliente em cada mês em KWH ou R$ | Administrador |
 RF010 - Quantidade de clinete | Exibir a quantidade de clientes por mês | Administrador |
 
-### Modelo Conceitual
+### Modelo Conceitual 
 
 Abaixo se encontra o modelo entidade relacionamento do projeto de serviço de assessoria energética.
 
