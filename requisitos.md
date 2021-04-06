@@ -1,11 +1,6 @@
-# Documento de visão
+# Descrição do projeto
 
-## Equipe e definição dos papéis
-
-Membro    |   Papel    |  E-mail  |
---------- | ---------  |--------- |
-Robson    | Analista, testador, desenvolvedor, cliente | pakrobson@gmail.com | 
-
+O projeto em questão é de um sistema para serviço de assessoria de energia. Tem como objetivo entender como funciona a operaçao de equipamentos (eletrodomésticos, maquinário, etc) de um determinado cliente fazendo uma análise de problemas ou anomalias (valor elevados na conta energia elétrica) e propor possíveis soluções para reduzir seu consumo, sendo assim, melhorando sua eficiência com gasto de energia elétrica.
 
 ## Perfis de usuários
 
