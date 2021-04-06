@@ -36,4 +36,3 @@ Requisito | Descrição |
 RNF001 - Realizar backup | O sistema deve realizar backup periodicamente. |
 RNF002 - Possuir uma UI intuitiva | A interface do usuário deve ser intuitiva para ter uma maior eficiência. |
 RNF003 - Segurança das informações | Os dados de cada usuário deve permanecer seguros.
-  
