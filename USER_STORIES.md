@@ -1,8 +1,6 @@
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
+as   |
+---------  | ----------- | ---------- |
+Taciano    | Cliente Professor  | taciano@bsi.ufrn.br
+Sandra     | Cliente (Diretora) | sandra@ceres.ufrn.br
+Zé         | Analista, Testador | ze@silva.com
+Maria      | Gerente, Desenvolvedor | maria@silva.com
