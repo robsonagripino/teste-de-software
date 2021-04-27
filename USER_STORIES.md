@@ -1,7 +1,7 @@
 # User Story US01 - Cadastrar cliente
 
 ## Descrição
-O usuário (administrador) deseja adicionar um equipamento para que suas dados sejam salvos corretamente no banco de dados. Um equpamneto possuí os seguintes atributos: nome, potencia, ambiente, quantidade, selo_eficiencia, horas_uso, dias_utilizados, total_KWH_mes e o id_imovel ao qual está presente. 
+O usuário (administrador) deseja adicionar um equipamento para que suas dados sejam salvos corretamente no banco de dados. Um equipamento possuí os seguintes atributos: nome, potencia, ambiente, quantidade, selo_eficiencia, horas_uso, dias_utilizados, total_KWH_mes e o id_imovel ao qual está presente. 
 
 ## Requisitos envolvidos
 RF01
