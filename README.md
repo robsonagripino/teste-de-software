@@ -10,8 +10,11 @@ Link para o documento de user stories.
 
 [User stories](USER_STORIES.md)
 	```
-# comando 
+## Teste de cobertura
+
+Para rodar os teste de cobertura, no diretório do projeto, execulte os seguintes comandos:
 
 ```
 flutter test --coverage
+genhtml coverage/lcov.info -o coverage/html
 ```
