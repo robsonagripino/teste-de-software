@@ -25,3 +25,5 @@ genhtml coverage/lcov.info -o coverage/html
 ## Teste de integração
 
 Os dois arquivos necessários para rodar o teste de integração está localizado em [teste de integração](assessoria_energetica/test_driver/)
+
+Uma vez execultado a instância do Aplicativo em [app.dart](assessoria_energetica/test_driver/app.dart), execute o seguinte arquivo [assessoria_test.dart](assessoria_energetica/test_driver/assessoria_test.dart)
