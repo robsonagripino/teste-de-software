@@ -21,6 +21,9 @@ Para rodar os teste de cobertura, no diretório do projeto, execulte os seguinte
 ```
 flutter test --coverage
 genhtml coverage/lcov.info -o coverage/html
+
+O arquivo [index.html](assessoria_energetica/coverage/html/index.html) mostrará o resultado da cobertura.
+
 ```
 ## Teste de integração
 
