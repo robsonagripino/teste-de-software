@@ -1,4 +1,4 @@
-# User Story US01 - Cadastrar cliente
+# User Story US01 - Cadastrar equipamento
 
 ## Descrição
 O usuário (administrador) deseja adicionar um equipamento para que suas dados sejam salvos corretamente no banco de dados. Um equipamento possuí os seguintes atributos: nome, potencia, ambiente, quantidade, selo_eficiencia, horas_uso, dias_utilizados, total_KWH_mes e o id_imovel ao qual está presente. 
