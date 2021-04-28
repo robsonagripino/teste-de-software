@@ -9,7 +9,7 @@ Link para o documento de requisitos.
 Link para o documento de user stories.
 
 [User stories](USER_STORIES.md)
-	```
+
 ## Teste de cobertura
 
 Para rodar os teste de cobertura, no diretório do projeto, execulte os seguintes comandos:
