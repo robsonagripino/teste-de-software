@@ -12,9 +12,7 @@ Link para o documento de user stories.
 
 ## Teste de unidade
 
-O arquivo que faz os testes de unidade está localizado em "/assessoria_energetica/test/assessoria_test.dart", referenciado pelo link abaixo:
-
-[Teste de unidade](assessoria_energetica/test/assessoria_test.dart)
+O arquivo que faz os testes de unidade está localizado em [teste de unidade](assessoria_energetica/test/assessoria_test.dart).
 
 ## Teste de cobertura
 
@@ -24,3 +22,6 @@ Para rodar os teste de cobertura, no diretório do projeto, execulte os seguinte
 flutter test --coverage
 genhtml coverage/lcov.info -o coverage/html
 ```
+## Teste de integração
+
+Os dois arquivos necessários para rodar o teste de integração está localizado em [teste de integração](assessoria_energetica/test_driver/)
