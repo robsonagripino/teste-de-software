@@ -25,6 +25,6 @@ main() {
   test('Potência não deve menor ou igual à 0', () {
     final equipamento = Equipamento('Televisor', -1);
 
-    expect(equipamento.validacao(), 'potencia não positiva');
+    expect(equipamento.validacao(), 'potencia não positivo');
   });
 }
