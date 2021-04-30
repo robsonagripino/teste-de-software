@@ -15,7 +15,7 @@ main() {
     expect(equipamento.validacao(), 'nome vazio');
   });
 
-  test('Potência não deve ser nulo', () {
+  test('Potência não deve ser nulo!', () {
     final equipamento = new Equipamento();
     equipamento.nome = 'Televisor';
   
