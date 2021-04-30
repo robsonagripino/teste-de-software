@@ -24,6 +24,6 @@ void main() {
 
     // Verify   that our counter has incremented.
 
-    expect(find.text('nome vazio'), findsOneWidget);
+    expect(find.text('nome vazia'), findsOneWidget);
   });
 }
