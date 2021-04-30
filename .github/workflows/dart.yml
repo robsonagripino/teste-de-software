@@ -25,6 +25,5 @@ jobs:
     - uses: subosito/flutter-action@v1
       with:
         channel: 'stable' # or: 'beta', 'dev' or 'master'
-    - run: cd assessoria_energetica
-    - run: flutter test test/assessoria_test.dart
+    - run: cd assessoria_energetica/ && flutter test test/assessoria_test.dart
 
